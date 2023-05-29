@@ -3,7 +3,8 @@ members = [
     "halo2-base",
     "halo2-ecc",
     "hashes/zkevm-keccak",
-    "hashes/poseidon"
+    "hashes/poseidon",
+    "hashes/zkevm-sha256"
 ]
 
 [profile.dev]
